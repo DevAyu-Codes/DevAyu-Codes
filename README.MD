@@ -10,8 +10,7 @@ Welcome to my GitHub repository! I'm **Ayu Kashyap**, a passionate programmer wh
 ## 🛠️ Tech Stack  
 🔹 **Languages:** Python, JavaScript, Java, HTML, CSS, RenPy, ShellScripting  
 🔹 **Backend:** Flask, PHP  
-🔹 **Databases:** MySQL
-
+🔹 **Databases:** MySQL  
 🔹 **Other Tools:** Git, Linux, Docker  
 
 ## 🚀 What I Do  

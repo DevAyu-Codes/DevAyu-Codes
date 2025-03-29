@@ -11,6 +11,7 @@ Welcome to my GitHub repository! I'm **Ayu Kashyap**, a passionate programmer wh
 🔹 **Languages:** Python, JavaScript, Java, HTML, CSS, RenPy, ShellScripting  
 🔹 **Backend:** Flask, PHP  
 🔹 **Databases:** MySQL
+
 🔹 **Other Tools:** Git, Linux, Docker  
 
 ## 🚀 What I Do  
